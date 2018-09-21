@@ -1,11 +1,16 @@
 _repo: Il-nuovo-lume-delle-gioie-Opera-utilissima-ad-ogni-persona-cosi-a-orefici-e-speciali-per-l-ar__54070
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54070-h/images/cover.jpg
 creator:
   author:
     agent_name: Caliari, Pietro
     gutenberg_agent_id: '47691'
     url: http://www.gutenberg.org/2009/agents/47691
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54070#Il-nuovo-lume-delle-gioie-Opera-utilissima-ad-ogni-persona-cosi-a-orefici-e-speciali-per-l-ar_
 gutenberg_bookshelf: IT Miscellanea
 gutenberg_issued: '2017-01-29'
 gutenberg_type: Text
